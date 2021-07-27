@@ -1,0 +1,43 @@
+.dark-bg{
+
+	background-color: bisque;
+	border-radius: 10px;
+
+}
+.carousel-item{
+	padding: 20px 40px;
+}
+.price{
+	color: red;
+}
+.first-btn{
+	background-color: yellowgreen;
+	border: none;
+	color: rgb(155, 7, 7);
+	border-radius: 8px;
+	padding: 9px 25px;
+	cursor: pointer;
+
+}
+.container{
+	margin: 50px;
+}
+.cat1{
+	background-color: cornflowerblue;
+}
+.cat2{
+	background-color: crimson;
+}
+.cat3{
+	background-color: darkolivegreen;
+}
+.cat1,.cat2,.cat3{
+	padding : 10px 30px;
+	border-radius: 10px;
+}
+#subscribe{
+	height :300px
+}
+#subscribe h6{
+	color: gray;
+}
